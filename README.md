@@ -4,4 +4,4 @@ The offline calculator of the probability of 2D or 3D structures by Neural Netwo
 
 The Neural Network comprises 10 continuous and 2 categorical inputs (variables) for 576 structures after the data pre-processing: cleaning from the outliers, zero values. No missing values were detected.
  
-Also, the summary as a figure is attached
+Also, the summary of the metrics and diagram are attached. Separately, the summary about the estimates is composed into an Excel table is available.
